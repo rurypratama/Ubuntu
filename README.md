@@ -17,3 +17,28 @@
   </a>
 
 </p>
+
+
+
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="60">✨ sᴛᴀᴛs:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=damsyx&hide=issues&show_icons=true&hide_border=true&title_color=000" />
+</p>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">💌 ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
+<p align="center">
+    <a href="https://facebook.com/Damm" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
+    <a href="https://t.me/damssyx" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://instagram.com/dambud" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
+</p>
+
+
+<hr/>
+    </details>
+    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/damsyx?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
